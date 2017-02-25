@@ -18,6 +18,10 @@ mvn -e clean install spring-boot:run
 ```
 http://localhost:8080/
 ```
+  - Create a controller file. Map a request. Redirect to a html file. 
+  - Create a html file in /resources/static 
+  - Hit the homepage again. You should get the html file. 
+
 
 # eclipse short cuts 
 
