@@ -1,0 +1,22 @@
+{
+  "name": "springBootHTML",
+  "homepage": "https://github.com/kaunjovi/springBootHTML",
+  "authors": [
+    "kaunjovi <kaunjovi@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "bootstrap": "^3.3.7"
+  }
+}

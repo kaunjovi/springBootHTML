@@ -6,3 +6,5 @@
 # No compiled files. 
 /target/
 
+# No bower components 
+/src/main/resources/static/bower_components
